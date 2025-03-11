@@ -10,4 +10,12 @@ public class HelloWorldController {
     public String helloWorld() {
         return "Hello World";
     }
+
+    public String goodMorning(){
+        return "Good Morning";
+    }
+
+    public String goodEvening(){
+        return "Good Evening";
+    }
 }
