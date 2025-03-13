@@ -18,4 +18,8 @@ public class HelloWorldController {
     public String goodEvening(){
         return "Good Evening";
     }
+
+    public String Thursday(){
+        return "Today is thursday";
+    }
 }
