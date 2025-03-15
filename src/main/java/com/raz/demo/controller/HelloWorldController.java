@@ -25,4 +25,7 @@ public class HelloWorldController {
     public String Friday(){
         return "Today is Friday";
     }
+    public String Saturday(){
+        return "Today is Saturday";
+    }
 }
