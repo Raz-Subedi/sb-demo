@@ -34,4 +34,7 @@ public class HelloWorldController {
     public String Monday(){
         return "Today is Monday";
     }
+    public String Tuesday(){
+        return "Today is Tuesday";
+    }
 }
