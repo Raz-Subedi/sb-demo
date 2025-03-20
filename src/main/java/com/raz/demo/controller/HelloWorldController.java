@@ -40,4 +40,7 @@ public class HelloWorldController {
     public String Wednesday(){
         return "Today is Wednesday";
     }
+    public String Hello(){
+        return "Today is thursday";
+    }
 }
