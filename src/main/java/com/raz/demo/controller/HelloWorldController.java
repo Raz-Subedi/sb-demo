@@ -46,4 +46,7 @@ public class HelloWorldController {
     public String World(){
         return "Today is World";
     }
+    public String Worlds(){
+        return "Today is Worlds";
+    }
 }
