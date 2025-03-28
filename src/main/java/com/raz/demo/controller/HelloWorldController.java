@@ -14,4 +14,7 @@ public class HelloWorldController {
     public String goodMorning() {
         return "Good Morning";
     }
+    public String goodMornin() {
+        return "Good Morning";
+    }
 }
