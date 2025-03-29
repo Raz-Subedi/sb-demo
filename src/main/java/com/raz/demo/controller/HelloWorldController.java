@@ -11,10 +11,12 @@ public class HelloWorldController {
         return "Hello World";
     }
 
+    @GetMapping
     public String goodMorning() {
         return "Good Morning";
     }
     public String goodMornin() {
         return "Good Morning";
     }
+
 }
