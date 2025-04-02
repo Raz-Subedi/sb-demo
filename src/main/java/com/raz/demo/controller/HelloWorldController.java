@@ -20,4 +20,9 @@ public class HelloWorldController {
         return "Good Morning";
     }
 
+    @GetMapping
+    public String Test() {
+        return "Good Morning";
+    }
+
 }
