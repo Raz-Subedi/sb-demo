@@ -13,9 +13,6 @@ public class HelloWorldController {
 
 
 
-    @GetMapping
-    public String Test() {
-        return "Good Morning";
-    }
+
 
 }
