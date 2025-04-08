@@ -40,5 +40,4 @@ public class StudentController {
             @RequestParam("lastName") String lastName){
         return new Student(firstName,lastName);
     }
-
 }
